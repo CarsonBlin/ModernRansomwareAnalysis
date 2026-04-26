@@ -1,5 +1,5 @@
 # Comprehensive Analysis of Modern Ransomware
-Semester-long project regarding the usage of Ransomware on IoT devices. 
+Semester-long project regarding the usage of Ransomware on modern ransomware.
 
 # Information
 
