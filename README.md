@@ -5,6 +5,14 @@ Semester-long project regarding the usage of Ransomware on modern ransomware. In
 
 All images and reports have been documumented to this GitHub repository. 
 
+# Ransomware Analyzed
+
+The main three ransomware attacks that were analyzed in this final project is
+
+- WannaCry
+- Locky
+- Colonial Pipeline Attack (DarkSide)
+
 # Tools used
 
 The main analysis tools used for this semester long project are as follows:
