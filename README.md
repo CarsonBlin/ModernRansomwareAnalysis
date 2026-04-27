@@ -1,5 +1,5 @@
 # Comprehensive Analysis of Modern Ransomware
-Semester-long project regarding the usage of Ransomware on modern ransomware.
+Semester-long project regarding the usage of Ransomware on modern ransomware. In this project, comparative analysis methodologies were used to implement and complete this project.
 
 # Information
 
