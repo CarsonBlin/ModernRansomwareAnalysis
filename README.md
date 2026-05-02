@@ -7,7 +7,7 @@ All images and reports have been documumented to this GitHub repository.
 
 # Ransomware Analyzed
 
-The main three ransomware attacks that were analyzed in this final project is
+The main three ransomware attacks that were analyzed in this final project are
 
 - WannaCry
 - Locky
